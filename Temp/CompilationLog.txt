@@ -1,0 +1,4 @@
+# Starting compiling Mirror.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-2dcbac47bf345f1499719840e770d678
+# Starting IL post processing on Mirror.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"C:/Users/squir/My project (1)/Temp/UnityTempFile-91c4426ad2790754685f64b265423da6"
